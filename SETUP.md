@@ -249,12 +249,3 @@ Just ensure Node.js 18+ is available.
 3. Check browser console for error messages
 4. Verify file format is supported
 5. Try with a different test file
-
-## Next Steps
-
-After successful setup:
-
-1. **Customize the Theme** - Edit colors in `app/globals.css`
-2. **Add More Features** - Extend metadata extraction for new file types
-3. **Improve UI** - Enhance the component designs
-4. **Deploy** - Push to your favorite hosting platform
