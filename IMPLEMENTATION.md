@@ -327,4 +327,3 @@ The File Metadata Inspector is a complete, production-ready web application that
 - Professional UI/UX with dark theme
 - Comprehensive documentation
 
-The application is ready for deployment and can be extended with additional features as needed.
