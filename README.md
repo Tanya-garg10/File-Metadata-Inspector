@@ -237,18 +237,10 @@ Note: EXIF extraction requires support for:
 - **No Server Uploads**: Files never leave your device
 - **No Tracking**: No analytics or third-party tracking
 - **Open Source**: Code is transparent and auditable
-
-## License
-
-This project is provided as-is for educational and personal use.
-
+- 
 ## Credits
 
 - **EXIF.js**: For comprehensive EXIF data extraction
 - **PDF.js**: For PDF document analysis
 - **Tailwind CSS**: For utility-first styling
 - **Lucide React**: For consistent icon design
-
-## Support
-
-For issues, questions, or suggestions, please refer to the project documentation or create an issue in the repository.
